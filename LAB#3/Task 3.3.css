@@ -1,0 +1,13 @@
+body{
+    margin-top: 5%;
+}
+
+h1{
+  font-family:  Garamond ;  
+  font-size: 26;
+  color: red;
+}
+
+ul{
+    list-style-type: disc;
+}
